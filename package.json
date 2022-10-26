@@ -1,0 +1,17 @@
+{
+    "name": "TD-SaveImgBase64",
+    "version": "1.0.0",
+    "description": "Este es un componente de TouchDesigner para guardar fácilmente imágenes con codificación Base64 en una base de datos // This is a TouchDesigner component to easily save Base64-encoded images in a database.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "nodemon index.js",
+        "clear": "node remove.js"
+    },
+    "author": "Pedro Falco",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2",
+        "nedb": "^1.8.0"
+    }
+}

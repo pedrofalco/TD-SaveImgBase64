@@ -1,0 +1,4 @@
+node_modules/
+*.toe
+Backup/
+database.db
